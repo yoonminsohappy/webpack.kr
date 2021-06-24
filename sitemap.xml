@@ -124,6 +124,9 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
@@ -131,9 +134,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -457,7 +457,7 @@
         <loc>https://webpack.kr/plugins/automatic-prefetch-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/closure-webpack-plugin</loc>
+        <loc>https://webpack.kr/plugins/banner-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/commons-chunk-plugin</loc>
@@ -470,9 +470,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/context-replacement-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/plugins/banner-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/copy-webpack-plugin</loc>
@@ -533,6 +530,9 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/module-concatenation-plugin</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/plugins/module-federation-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/no-emit-on-errors-plugin</loc>
