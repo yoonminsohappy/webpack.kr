@@ -91,13 +91,13 @@
         <loc>https://webpack.kr/api/module-methods</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/module-variables</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/node</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/normalmodulefactory-hooks</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/module-variables</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/parser</loc>
@@ -268,6 +268,9 @@
         <loc>https://webpack.kr/guides/asset-management</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/guides/asset-modules</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/guides/author-libraries</loc>
     </url>
     <url>
@@ -304,6 +307,9 @@
         <loc>https://webpack.kr/guides/development</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/guides/development-vagrant</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/guides/ecma-script-modules</loc>
     </url>
     <url>
@@ -314,9 +320,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/guides/getting-started</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/guides/asset-modules</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/hot-module-replacement</loc>
@@ -394,10 +397,10 @@
         <loc>https://webpack.kr/loaders/istanbul-instrumenter-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/less-loader</loc>
+        <loc>https://webpack.kr/loaders/mocha-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/mocha-loader</loc>
+        <loc>https://webpack.kr/loaders/less-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/node-loader</loc>
@@ -415,13 +418,13 @@
         <loc>https://webpack.kr/loaders/remark-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/sass-loader</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/loaders/source-map-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/style-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/loaders/sass-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/stylus-loader</loc>
@@ -517,9 +520,6 @@
         <loc>https://webpack.kr/plugins/json-minimizer-webpack-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/limit-chunk-count-plugin</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/plugins/min-chunk-size-plugin</loc>
     </url>
     <url>
@@ -568,10 +568,10 @@
         <loc>https://webpack.kr/pluginsapi/compiler</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/pluginsapi/template</loc>
+        <loc>https://webpack.kr/plugins/limit-chunk-count-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/development-vagrant</loc>
+        <loc>https://webpack.kr/pluginsapi/template</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/compilation</loc>
