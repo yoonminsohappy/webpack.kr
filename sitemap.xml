@@ -127,13 +127,13 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/entry-points</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
@@ -229,10 +229,10 @@
         <loc>https://webpack.kr/configuration/watch</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/configuration/optimization</loc>
+        <loc>https://webpack.kr/contribute/debugging</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/contribute/debugging</loc>
+        <loc>https://webpack.kr/configuration/optimization</loc>
     </url>
     <url>
         <loc>https://webpack.kr/contribute/plugin-patterns</loc>
@@ -325,10 +325,10 @@
         <loc>https://webpack.kr/guides/environment-variables</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/hot-module-replacement</loc>
+        <loc>https://webpack.kr/guides/getting-started</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/guides/getting-started</loc>
+        <loc>https://webpack.kr/guides/hot-module-replacement</loc>
     </url>
     <url>
         <loc>https://webpack.kr/guides/installation</loc>
@@ -409,13 +409,13 @@
         <loc>https://webpack.kr/loaders/mocha-loader</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/loaders/node-loader</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/loaders/null-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/postcss-loader</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/loaders/node-loader</loc>
     </url>
     <url>
         <loc>https://webpack.kr/loaders/raw-loader</loc>
@@ -526,6 +526,9 @@
         <loc>https://webpack.kr/plugins/json-minimizer-webpack-plugin</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/plugins/limit-chunk-count-plugin</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/plugins/min-chunk-size-plugin</loc>
     </url>
     <url>
@@ -536,9 +539,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/plugins/module-federation-plugin</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/plugins/limit-chunk-count-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/plugins/no-emit-on-errors-plugin</loc>
@@ -568,10 +568,10 @@
         <loc>https://webpack.kr/plugins/stylelint-webpack-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/terser-webpack-plugin</loc>
+        <loc>https://webpack.kr/plugins/watch-ignore-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins/watch-ignore-plugin</loc>
+        <loc>https://webpack.kr/plugins/terser-webpack-plugin</loc>
     </url>
     <url>
         <loc>https://webpack.kr/pluginsapi/compiler</loc>
@@ -580,13 +580,10 @@
         <loc>https://webpack.kr/pluginsapi/template</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/compiler</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/compilation</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/module-factories</loc>
+        <loc>https://webpack.kr/api/plugins/compiler</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/parser</loc>
@@ -599,5 +596,8 @@
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/template</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/api/plugins/module-factories</loc>
     </url>
 </urlset>
