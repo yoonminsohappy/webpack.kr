@@ -52,13 +52,13 @@
         <loc>https://webpack.kr/migrating</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/plugins</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/pluginsapi</loc>
     </url>
     <url>
         <loc>https://webpack.kr/support</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/plugins</loc>
     </url>
     <url>
         <loc>https://webpack.kr/vote</loc>
@@ -127,6 +127,9 @@
         <loc>https://webpack.kr/blog/printable</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/concepts/configuration</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/concepts/dependency-graph</loc>
     </url>
     <url>
@@ -134,9 +137,6 @@
     </url>
     <url>
         <loc>https://webpack.kr/concepts/hot-module-replacement</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/concepts/configuration</loc>
     </url>
     <url>
         <loc>https://webpack.kr/concepts/loaders</loc>
@@ -457,6 +457,12 @@
         <loc>https://webpack.kr/migrate/5</loc>
     </url>
     <url>
+        <loc>https://webpack.kr/pluginsapi/compiler</loc>
+    </url>
+    <url>
+        <loc>https://webpack.kr/pluginsapi/template</loc>
+    </url>
+    <url>
         <loc>https://webpack.kr/plugins/NoEmitOnErrorsPlugin</loc>
     </url>
     <url>
@@ -574,12 +580,6 @@
         <loc>https://webpack.kr/plugins/watch-ignore-plugin</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/pluginsapi/compiler</loc>
-    </url>
-    <url>
-        <loc>https://webpack.kr/pluginsapi/template</loc>
-    </url>
-    <url>
         <loc>https://webpack.kr/api/plugins/compilation</loc>
     </url>
     <url>
@@ -589,10 +589,10 @@
         <loc>https://webpack.kr/api/plugins/parser</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/resolver</loc>
+        <loc>https://webpack.kr/api/plugins/compiler</loc>
     </url>
     <url>
-        <loc>https://webpack.kr/api/plugins/compiler</loc>
+        <loc>https://webpack.kr/api/plugins/resolver</loc>
     </url>
     <url>
         <loc>https://webpack.kr/api/plugins/tapable</loc>
